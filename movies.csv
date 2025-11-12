@@ -1,0 +1,11 @@
+MovieID,Title,Genre,UserID,Rating,Year
+1,Inception,Sci-Fi,101,5,2010
+2,Inception,Sci-Fi,102,4,2010
+3,Titanic,Romance,103,5,1997
+4,Avatar,Sci-Fi,104,4,2009
+5,Titanic,Romance,105,3,1997
+6,The Dark Knight,Action,106,5,2008
+7,The Dark Knight,Action,107,4,2008
+8,The Notebook,Romance,108,4,2004
+9,Avatar,Sci-Fi,109,5,2009
+10,Inception,Sci-Fi,110,5,2010
