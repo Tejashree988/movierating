@@ -14,8 +14,4 @@ It features an **interactive Streamlit web app** that allows users to:
 - Pandas  
 - Matplotlib / Altair  
 
-## ⚙️ Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tejashree988/movierating.git
-   cd movierating
+
